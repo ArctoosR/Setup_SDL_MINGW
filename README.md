@@ -11,23 +11,7 @@ Our example will be written in C using a 64-bit compiler but this works exactly 
 Step 1: Installing mingw-w64
 The first step is to download mingw-w64, and during the install, make sure to install the 64-bit compiler x86_64, as shown below.
 
-After the installer is done we need to add the mingw directory to PATH.
-
-Open the start menu and search for "Edit the system environment variables" -> click "Environment Variables" -> select "Path" under System variables and click "Edit" -> add mingw64\bin
-
-Now we can make sure everything works correctly by opening cmd and typing in the gcc command.
-
-
-
-Step 2: Installing SDL2
-Go to the SDL2 download page and download the latest development library for Windows using MinGW.
-
-
-![Preview](https://github.com/ArctoosR/Setup_SDL_MINGW/blob/main/05.png)
-
-
-After extracting the contents using for example 7-Zip, copy the folder "x86_64-w64-mingw32", to where you want to store the library.
-Note that this is still the 64-bit version of the library.
+![Preview]()
 
 
 
