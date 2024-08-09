@@ -23,7 +23,7 @@ Step 2: Installing SDL2
 Go to the SDL2 download page and download the latest development library for Windows using MinGW.
 
 
-https://github.com/ArctoosR/Setup_SDL_MINGW/blob/main/05.png
+![Preview](https://github.com/ArctoosR/Setup_SDL_MINGW/blob/main/05.png)
 
 
 After extracting the contents using for example 7-Zip, copy the folder "x86_64-w64-mingw32", to where you want to store the library.
