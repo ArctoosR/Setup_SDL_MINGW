@@ -112,4 +112,4 @@ Note:
 Building in MSYS2
 To build in MSYS2, install the following set of packages with pacman -S --needed:
 
-git wget mingw-w64-x86_64-gcc mingw-w64-x86_64-ninja mingw-w64-x86_64-cmake make mingw-w64-x86_64-python3 autoconf libtool
+pacman -S git wget mingw-w64-x86_64-gcc mingw-w64-x86_64-ninja mingw-w64-x86_64-cmake make mingw-w64-x86_64-python3 autoconf libtool
