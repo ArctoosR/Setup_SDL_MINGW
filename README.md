@@ -94,7 +94,7 @@ See also: GCC Language Standards for C
 Step 4: A Platformer in C
 Now we are done with the setup and can therefore start using SDL2 for development in C/C++, so I will include some example code to get a basic object moving on the screen. Here is platformer.c!
 
-![Preview](https://github.com/ArctoosR/Setup_SDL_MINGW/blob/main/10.png)
+![Preview](https://github.com/ArctoosR/Setup_SDL_MINGW/blob/main/platformer.gif)
 
 
 
